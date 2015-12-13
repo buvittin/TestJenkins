@@ -90,7 +90,8 @@
         CreateStyleColumn(col, "colXL", "Xếp Loại", False, "XepLoai", DataGridViewContentAlignment.MiddleCenter, DataGridViewAutoSizeColumnMode.Fill)
         dgvHocSinh.Columns.Add(col)
     End Sub
-
+    
+    'cmt
     Private Sub GenerateDGVLH()
         dgvLopHoc.AutoGenerateColumns = False
         dgvLopHoc.RowHeadersVisible = False
