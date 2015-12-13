@@ -1,0 +1,12 @@
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\_1061144.Form1.resources
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\_1061144.Resources.resources
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\bin\Debug\1061144.exe
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\bin\Debug\1061144.pdb
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\bin\Debug\1061144.xml
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\1061144.exe
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\1061144.xml
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\obj\x86\Debug\1061144.pdb
+D:\Documents\File lap Trinh\YEAR 3\VB\Thuc Hanh Tuan 9\1061144\1061144\bin\Debug\Data.mdb
